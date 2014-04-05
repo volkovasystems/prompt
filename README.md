@@ -1,0 +1,4 @@
+prompt
+======
+
+Universal logging.
